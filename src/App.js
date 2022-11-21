@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-       <h1>MAD Test Deply React/Github Pages</h1>
+       <h1>MAD Test Deploy App React/Github Pages</h1>
     </div>
   );
 }
